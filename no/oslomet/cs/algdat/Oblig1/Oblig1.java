@@ -2,6 +2,8 @@ package no.oslomet.cs.algdat.Oblig1;
 
 ////// Løsningsforslag Oblig 1 - 2019 ////////////////////////
 
+// Laget av Liv Ellingsen (s305483), ...
+
 import sun.reflect.generics.reflectiveObjects.NotImplementedException;
 
 import java.util.Arrays;
